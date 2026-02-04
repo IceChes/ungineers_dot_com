@@ -76,6 +76,19 @@
                     "pdf": "true"
                 }
             ]
+        },
+        {
+            "name": "Driver40",
+            "description": "Utraportable split ortholinear keyboard",
+            "repo": "https://github.com/typewatch/driver40",
+            "author": "typewatch",
+            "pages": [
+                {
+                    "title": "readme",
+                    "url": "https://raw.githubusercontent.com/typewatch/typewatch.github.io/refs/heads/main/assets/ungineersdotcomfiles/driver40/readme.md",
+                    "icon": "books"
+                }
+            ]
         }
     ]
 }
