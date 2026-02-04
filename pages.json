@@ -71,7 +71,7 @@
                 },
                 {
                     "title": "Assembly Guide",
-                    "url": "https://raw.githubusercontent.com/IceChes/Unicross-3/refs/heads/main/Documentation/Assembly%20Manual.pdf".
+                    "url": "https://raw.githubusercontent.com/IceChes/Unicross-3/refs/heads/main/Documentation/Assembly%20Manual.pdf",
                     "icon": "wrench",
                     "pdf": "true"
                 }
